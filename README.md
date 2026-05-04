@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Fergie%20(Yishu)%20Yang&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%2FML%20Engineer%20%C2%B7%20NYU%20Center%20for%20Data%20Science&descSize=18&descAlignY=50&descColor=e0e0ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=650&lines=Building+at+the+intersection+of;statistical+theory+and+scalable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=700&lines=Architecting+how+machines+learn%2C;systems+scale%2C+and+data+becomes+decisions.)](https://git.io/typing-svg)
 
 </div>
 
