@@ -77,7 +77,15 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fergieyang/)
+<a href="https://www.linkedin.com/in/fergieyang/">
+  <img src="https://avatars.githubusercontent.com/u/150592950?v=4" width="120" alt="Fergie Yang" />
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/fergieyang/">
+  <img src="https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
