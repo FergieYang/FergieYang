@@ -78,11 +78,11 @@ Alas! Books never teach everything, writing is the digesting king. I once wrote 
 Also I initiate my Substack.com platform to begin writing in pure English articles, but this part mainly serves as the analysis of those books for their profound theory and how they are related to my wellbeing AI. If technically you are interested my long-term cyber life, please visit it!
 
 Finally, once I finished my substack.com article, I would reload them onto LinkedIn (only deep and technical passage) and Substack.com (nearly everything), so look forward to it!
-| Platform | How you subscribe me |
+| Platform | Link |
 |----------|----------------------|
-| X (Twitter) | Follow [@LotusCross39](https://x.com/LotusCross39) |
-| Substack | Subscribe at [lotuscross39](https://substack.com/@lotuscross39) — free, delivered to inbox |
-| WeChat Official Account | Open WeChat → search "[your account name in Chinese]" → tap Follow (关注) |
+| X (Twitter) | [@LotusCross39](https://x.com/LotusCross39) |
+| Substack | [lotuscross39](https://substack.com/@lotuscross39) — free, delivered to inbox |
+| WeChat Official Account | https://mp.weixin.qq.com/s/bDsMLQvESPIf2joILCKl8Q, this passage is a poetry about 'what is love', if convenience for Chinese friends, click and you could see my account. |
 | LinkedIn | https://www.linkedin.com/in/fergieyang/ |
 
 <div align="center">
