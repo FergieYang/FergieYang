@@ -85,6 +85,13 @@ Finally, once I finished my substack.com article, I would reload them onto Linke
 | WeChat Official Account | https://mp.weixin.qq.com/s/bDsMLQvESPIf2joILCKl8Q, this passage is a poetry about 'what is love', if convenience for Chinese friends, click and you could see my account. |
 | LinkedIn | https://www.linkedin.com/in/fergieyang/ |
 
+---
+
+### Epilogue
+
+I look forward any Tech AI engineer give me any advice on my projects and my research work, it could help me grow! But, I look more forward to, someone could talk with me about about my favorite these books! My email is yy5732@nyu.edu, fergusonyang26@gmail.com, if someone feel it is interesting, please email me, we could have a coffee chat!
+
+Man is something to be surpassed.
 <div align="center">
 
 **Tech Stack**
