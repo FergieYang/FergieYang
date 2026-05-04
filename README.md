@@ -72,8 +72,8 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FergieYang&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FergieYang&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="39%" />
+<img src="https://github-readme-stats-pearl-delta-68.vercel.app/api?username=FergieYang&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-pearl-delta-68.vercel.app/api/top-langs/?username=FergieYang&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="39%" />
 
 <br><br>
 
