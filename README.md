@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Fergie%20(Yishu)%20Yang&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%2FML%20Engineer%20%C2%B7%20NYU%20Center%20for%20Data%20Science&descSize=18&descAlignY=50&descColor=e0e0ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:66eea8,100:4ba276&height=200&section=header&text=Fergie%20(Yishu)%20Yang&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%2FML%20Engineer%20%C2%B7%20NYU%20Center%20for%20Data%20Science&descSize=18&descAlignY=50&descColor=e0ffe8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=667EEA&center=true&vCenter=true&width=700&lines=Architecting+how+machines+learn%2C;systems+scale%2C+and+data+becomes+decisions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=66EEA8&center=true&vCenter=true&width=700&lines=Architecting+how+machines+learn%2C;systems+scale%2C+and+data+becomes+decisions.)](https://git.io/typing-svg)
 
 </div>
 
@@ -81,4 +81,4 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:66eea8,100:4ba276&height=120&section=footer" />
