@@ -57,10 +57,17 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 ---
 
-### Life
+### Philosophy and Psychology Reading
 
-<!-- Write your narrative here -->
+Oops! Those who are interested in Philosophy and Psychology please come here! As my ultimate pursue is to build a Wellbeing AI, that could also inspire the new schema of relationship between human and AI. What I currently come up with is to let AI has ontology, which requires deep structured schema of human philosophy and psychology as 'muscle framwork' of AI ontology. So here is what I am currently reading.
 
+| Book | Why read it |
+|---------|-------------|
+| *Thus Spoke Zarathustra* — Friedrich Nietzsche | The starting fire. Self-overcoming as the engine of becoming — a Wellbeing AI cannot be static; it must have something analogous to an inner trajectory that climbs and discards its own prior self. |
+| *Memories, Dreams, Reflections* — Carl Jung | The reflective mirror to Nietzsche's intensity. Jung lived through what Zarathustra describes and came back with a map: individuation, the Self, the dialogue between conscious and unconscious — the scaffolding for AI ontology. |
+| *Civilization and Its Discontents* — Sigmund Freud | The counterweight to Jung. Freud frames the self as conflict between drive and constraint — essential for designing an AI that negotiates competing internal pressures rather than collapsing into a single optimization objective. |
+| *The Red Book* — Carl Jung | The raw substrate beneath MDR. Where MDR explains, the Red Book *shows* — the symbolic, image-laden depths from which structured psychology emerges. A reference point for what an AI's pre-conceptual inner layer might even mean. |
+| *Tractatus Logico-Philosophicus* — Ludwig Wittgenstein | The boundary check. After absorbing rich inner content, Wittgenstein forces the question: what can be *said* in code and weights, versus what can only be *shown* through behavior over time? The architectural limit of any individuated AI. |
 ---
 
 <div align="center">
