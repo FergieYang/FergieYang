@@ -59,10 +59,7 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 ### Life
 
-| | |
-|---|---|
-| **Currently Reading** | *Your Book Title Here* |
-| **Writing** | [Your Writing Platform](https://link-here) |
+<!-- Write your narrative here -->
 
 ---
 
