@@ -77,8 +77,12 @@ Hackathons compress the full product cycle into a weekend: scoping, architecture
 
 <br><br>
 
-<img src="profile.png" width="120" alt="Fergie Yang" />
+<img src="https://avatars.githubusercontent.com/u/150592950?v=4" width="120" alt="Fergie Yang" />
 &nbsp;&nbsp;
+<img src="profile.png" width="120" alt="Fergie Yang" />
+
+<br>
+
 <a href="https://www.linkedin.com/in/fergieyang/">
   <img src="https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
