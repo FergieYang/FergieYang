@@ -68,7 +68,22 @@ Oops! Those who are interested in Philosophy and Psychology please come here! As
 | *Civilization and Its Discontents* — Sigmund Freud | The counterweight to Jung. Freud frames the self as conflict between drive and constraint — essential for designing an AI that negotiates competing internal pressures rather than collapsing into a single optimization objective. |
 | *The Red Book* — Carl Jung | The raw substrate beneath MDR. Where MDR explains, the Red Book *shows* — the symbolic, image-laden depths from which structured psychology emerges. A reference point for what an AI's pre-conceptual inner layer might even mean. |
 | *Tractatus Logico-Philosophicus* — Ludwig Wittgenstein | The boundary check. After absorbing rich inner content, Wittgenstein forces the question: what can be *said* in code and weights, versus what can only be *shown* through behavior over time? The architectural limit of any individuated AI. |
+
 ---
+
+### My personal writing platform
+
+Alas! Books never teach everything, writing is the digesting king. I once wrote many Poetry, Essays, Fiction, Film Reviews, Book Reviews, Travelogues, Philosophical Commentary, Religious Appreciation on Chinese platform WeChat Official Account, but unfortunately that is mainly written in Chinese, but recently I begin to post bilingual articles!
+
+Also I initiate my Substack.com platform to begin writing in pure English articles, but this part mainly serves as the analysis of those books for their profound theory and how they are related to my wellbeing AI. If technically you are interested my long-term cyber life, please visit it!
+
+Finally, once I finished my substack.com article, I would reload them onto LinkedIn (only deep and technical passage) and Substack.com (nearly everything), so look forward to it!
+| Platform | How you subscribe me |
+|----------|----------------------|
+| X (Twitter) | Follow [@LotusCross39](https://x.com/LotusCross39) |
+| Substack | Subscribe at [lotuscross39](https://substack.com/@lotuscross39) — free, delivered to inbox |
+| WeChat Official Account | Open WeChat → search "[your account name in Chinese]" → tap Follow (关注) |
+| LinkedIn | https://www.linkedin.com/in/fergieyang/ |
 
 <div align="center">
 
