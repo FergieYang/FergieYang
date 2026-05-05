@@ -81,7 +81,7 @@ Finally, once I finished my substack.com article, I would reload them onto Linke
 | Platform | Link |
 |----------|----------------------|
 | X (Twitter) | [@Zygote39](https://x.com/Zygote39) |
-| Substack | [lotuscross39](https://substack.com/@lotuscross39) — free, delivered to inbox |
+| Substack | [zygote39](https://substack.com/@zygote39) — free, delivered to inbox |
 | WeChat Official Account | https://mp.weixin.qq.com/s/bDsMLQvESPIf2joILCKl8Q, this passage is a poetry about 'what is love', if convenience for Chinese friends, click and you could see my account. |
 | LinkedIn | https://www.linkedin.com/in/fergieyang/ |
 
